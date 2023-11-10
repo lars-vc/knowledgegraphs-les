@@ -1,0 +1,7 @@
+@prefix schema: <https://schema.org/> .
+
+<https://github.com/lars-vc> schema:name "Lars" ;
+                             schema:knows <www.victormylle.be>.
+#<https://victormylle.be> schema:name "Victor" ;
+#                         schema:knows <https://github.com/lars-vc>.
+
